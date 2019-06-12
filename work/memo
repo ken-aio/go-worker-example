@@ -1,0 +1,14 @@
+* webfront
+sha1ハッシュの計算をする
+proof of work
+
+* portal
+proof of workの機構をもったAPIを呼ぶ
+
+* 新規APIサーバ
+proof of workのQとAを返すAPI
+
+* CP
+メールを非同期に送信するようにする. SMS / 電話も同じ
+SMS / 電話については回数制限の機構をいれる（1日に3回まで、とか）
+
